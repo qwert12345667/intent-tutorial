@@ -1,5 +1,5 @@
 <resources>
-	<string name="app_name">Intent</string>
-	<string name="text_hello_intent">Hello Intent!</string>
-	<string name="text_open_another_activity">Open AnotherActivity</string>
+    <string name="app_name">Intent</string>
+    <string name="text_hello_intent">Hello Intent!</string>
+    <string name="text_open_another_activity">Open AnotherActivity</string>
 </resources>
